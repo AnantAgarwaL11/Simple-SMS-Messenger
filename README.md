@@ -16,7 +16,5 @@ Contains no ads or unnecessary permissions. It is fully opensource, provides cus
 
 
 <div style="display:flex;">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.jpeg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.jpeg" width="30%">
 </div>
 
